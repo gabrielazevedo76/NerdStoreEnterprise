@@ -1,4 +1,5 @@
 is_global = true
+build_property.RefitInternalNamespace = NSE.WebApp.MVC
 build_property.TargetFramework = net7.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
@@ -16,8 +17,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\gabri\source\repos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/gabri/source/repos/NerdStoreEnterprise/src/web/NSE.WebApp.MVC/Views/Home/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+[C:/Users/gabri/source/repos/NerdStoreEnterprise/src/web/NSE.WebApp.MVC/Views/Catalogo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/source/repos/NerdStoreEnterprise/src/web/NSE.WebApp.MVC/Views/Catalogo/ProdutoDetalhe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cUHJvZHV0b0RldGFsaGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/gabri/source/repos/NerdStoreEnterprise/src/web/NSE.WebApp.MVC/Views/Home/Index.cshtml]
@@ -34,6 +39,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/gabri/source/repos/NerdStoreEnterprise/src/web/NSE.WebApp.MVC/Views/Identidade/Pages/Identidade/Registro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpZGFkZVxQYWdlc1xJZGVudGlkYWRlXFJlZ2lzdHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/source/repos/NerdStoreEnterprise/src/web/NSE.WebApp.MVC/Views/Shared/Components/Summary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3VtbWFyeVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/gabri/source/repos/NerdStoreEnterprise/src/web/NSE.WebApp.MVC/Views/Shared/Error.cshtml]

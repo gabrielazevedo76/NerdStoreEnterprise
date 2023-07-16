@@ -86,3 +86,5 @@ C:\Users\gabri\source\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\
 C:\Users\gabri\source\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Identidade.API\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\gabri\source\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Identidade.API\obj\Debug\net7.0\NSE.Identidade.API.Properties.Resources.resources
 C:\Users\gabri\source\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Identidade.API\obj\Debug\net7.0\NSE.Identidade.API.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Identidade.API\bin\Debug\net7.0\NSE.WebAPI.Core.dll
+C:\Users\gabri\source\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Identidade.API\bin\Debug\net7.0\NSE.WebAPI.Core.pdb
